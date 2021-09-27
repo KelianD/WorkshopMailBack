@@ -1,2 +1,4 @@
-package com.example.back.controllers;public class SignalementController {
+package com.example.back.controllers;
+
+public class SignalementController {
 }

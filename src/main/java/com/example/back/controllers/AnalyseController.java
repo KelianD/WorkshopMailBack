@@ -1,2 +1,5 @@
-package com.example.back.controllers;public class AnalyseController {
+package com.example.back.controllers;
+
+public class AnalyseController
+{
 }
