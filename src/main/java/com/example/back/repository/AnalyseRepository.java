@@ -1,2 +1,4 @@
-package com.example.back.repository;public interface AnalyseRepository {
+package com.example.back.repository;
+
+public interface AnalyseRepository {
 }

@@ -1,2 +1,4 @@
-package com.example.back.services;public class AnalyseService {
+package com.example.back.services;
+
+public class AnalyseService {
 }
